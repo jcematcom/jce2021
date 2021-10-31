@@ -1,7 +1,7 @@
 ---
 title: "Semana de la Innovación 💡"
 date: 2021-10-31T22:33:10+01:00
-draft: true
+draft: false
 ---
 
 Llega la 5ta edición de la Semana de la Innovación, una competencia donde los partici-

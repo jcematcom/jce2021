@@ -1,7 +1,7 @@
 ---
 title: "Feria de Proyectos 🔧"
 date: 2021-10-31T22:31:06+01:00
-draft: true
+draft: false
 ---
 
 En la Feria de Proyectos los estudiantes que participaron en la Semana de la Innovación

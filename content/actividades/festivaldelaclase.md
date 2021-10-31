@@ -1,7 +1,7 @@
 ---
 title: "Festival de la Clase 🧑🏻‍🏫"
 date: 2021-10-31T21:54:17+01:00
-draft: true
+draft: false
 ---
 
 Con el objetivo de incentivar la preparación de los estudiantes para asumir la docencia

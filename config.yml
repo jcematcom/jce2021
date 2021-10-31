@@ -15,16 +15,14 @@ params:
         buttons:
             - name: Información
               url: "/convocatoria"
-            - name: Github
-              url: "https://github.com/"
 
     socialIcons: # optional
         - name: "github"
           url: "https://github.com/jcematcom"
         - name: "telegram"
-          url: "<link2>"
+          url: "https://t.me/jcematcom"
         - name: "email"
-          url: "<link2>"
+          url: "mailto:jce@matcom.uh.cu"
 
 menu:
   main:
@@ -36,7 +34,4 @@ menu:
       name: Actividades Relacionadas
       url: /actividades/
       weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
-      weight: 30
+

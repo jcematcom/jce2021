@@ -1,7 +1,7 @@
 ---
 title: "Divulgación 📢"
 date: 2021-10-31T22:29:41+01:00
-draft: true
+draft: false
 ---
 
 Con el objetivo de que los estudiantes de la Facultad participen en la divulgación de

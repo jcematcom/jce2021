@@ -1,7 +1,7 @@
 ---
 title: "MatcoM Game Festival 🎮"
 date: 2021-10-31T22:27:21+01:00
-draft: true
+draft: false
 ---
 
 Con un enfoque investigativo dirigido a los videojuegos se convoca a la 4ta edición de

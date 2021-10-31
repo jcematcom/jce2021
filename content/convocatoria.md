@@ -1,7 +1,7 @@
 ---
 title: "Convocatoria"
 date: 2021-10-31T21:49:30+01:00
-draft: true
+draft: false
 ---
 
 Las investigaciones científicas constituyen una porción muy importante de la vida laboral de un licenciado en Matemática o en Ciencias de la Computación. Aportar a la
