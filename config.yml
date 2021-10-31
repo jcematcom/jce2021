@@ -1,5 +1,5 @@
-baseURL : "http://example.org/"
-languageCode : "en-us"
+baseURL : "https://jcematcom.github.io/jce2021/"
+languageCode : "es-us"
 title : "JCE MatcoM 2021"
 theme: "PaperMod"
 
@@ -20,7 +20,7 @@ params:
 
     socialIcons: # optional
         - name: "github"
-          url: "<link>"
+          url: "https://github.com/jcematcom"
         - name: "telegram"
           url: "<link2>"
         - name: "email"
