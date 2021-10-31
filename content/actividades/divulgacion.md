@@ -1,5 +1,5 @@
 ---
-title: "Divulgación 📢"
+title: "Feria de Divulgación 📢"
 date: 2021-10-31T22:29:41+01:00
 draft: false
 ---
