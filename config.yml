@@ -14,7 +14,7 @@ params:
         imageHeight: 120 # custom size
         buttons:
             - name: Información
-              url: "/convocatoria"
+              url: "convocatoria/"
 
     socialIcons: # optional
         - name: "github"
