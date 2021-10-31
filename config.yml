@@ -1,0 +1,42 @@
+baseURL : "http://example.org/"
+languageCode : "en-us"
+title : "JCE MatcoM 2021"
+theme: "PaperMod"
+
+params:
+    profileMode:
+        enabled: true
+        title: ""
+        subtitle: "Convocatoria para todos los estudiantes de la enseñanza superior en Cuba"
+        imageUrl: "img/jornada2021.jpg" # optional
+        imageTitle: "<title of image as alt>" # optional
+        imageWidth: 120 # custom size
+        imageHeight: 120 # custom size
+        buttons:
+            - name: Información
+              url: "/convocatoria"
+            - name: Github
+              url: "https://github.com/"
+
+    socialIcons: # optional
+        - name: "github"
+          url: "<link>"
+        - name: "telegram"
+          url: "<link2>"
+        - name: "email"
+          url: "<link2>"
+
+menu:
+  main:
+    - identifier: Convocatoria
+      name: Convocatoria
+      url: /convocatoria
+      weight: 10
+    - identifier: Actividades
+      name: Actividades Relacionadas
+      url: /actividades/
+      weight: 20
+    - identifier: example
+      name: example.org
+      url: https://example.org
+      weight: 30
