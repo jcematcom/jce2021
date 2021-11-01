@@ -1,6 +1,6 @@
 baseURL : "https://jcematcom.github.io/jce2021/"
 languageCode : "es-us"
-title : "JCE MatcoM 2021"
+title : "JCE MatCom 2021"
 theme: "PaperMod"
 
 params:

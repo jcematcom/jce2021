@@ -5,5 +5,4 @@ draft: false
 ---
 
 
-La JCE estará acompañada por cinco eventos que se realizarán en ese
-período: la Feria de Proyectos, la Feria de Empleadores, la Semana de Innovación, el MatCom Game Festival y el Festival de la Clase.
+La JCE estará acompañada por cinco eventos que se realizarán en ese período: la Feria de Proyectos, la Feria de Empleadores, la Semana de Innovación, el MatCom Game Festival y el Festival de la Clase.
