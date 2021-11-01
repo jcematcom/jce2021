@@ -49,6 +49,6 @@ a su realización. La modalidad de cada evento (presencial, virtual o mixta)
 aún no está definida. Este aspecto está sujeto a la situación de la pandemia
 de Covid-19 en el país y será informado oportunamente.
 
-Puede descargar las plantillas [aqui](plantillas.zip).
+Puede descargar las plantillas [aqui](../plantillas.zip).
 
-En el marco de este evento se realizarán otras actividades. Puedes saber más [aqui](actividades)
+En el marco de este evento se realizarán otras actividades. Puedes saber más [aqui](../actividades)
