@@ -19,7 +19,7 @@ Los temas a concursar son:
 * Programación, Sistemas de Bases de Datos e Ingeniería de Software
 * Didáctica e Historia
 
-Los trabajos estarán siendo recibidos hasta el domingo 21 de noviembre de 2021, a través del correo electrónico a: [jce@matcom.uh.cu](mailto:jce@matcom.uh.cu). El asunto de cada correo deberá seguir el formato “[JCE-EA] <Título del trabajo que se envía>”, y en el cuerpo se deberá especificar:
+Los trabajos estarán siendo recibidos hasta el domingo 21 de noviembre de 2021, a través del correo electrónico a: [jce@matcom.uh.cu](mailto:jce@matcom.uh.cu). El asunto de cada correo deberá seguir el formato `[JCE-EA] <Título del trabajo que se envía>`, y en el cuerpo se deberá especificar:
 
 * Título del trabajo
 * Autor(es), de ellos especificar el que expondrá el trabajo
