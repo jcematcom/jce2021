@@ -14,8 +14,8 @@ params:
       imageWidth: 120 # custom size
       imageHeight: 120 # custom size
       buttons:
-          - name: Información
-            url: "convocatoria/"
+          - name: Trabajos Presentados
+            url: "articulos/"
 
   socialIcons: # optional
       - name: "github"
@@ -30,12 +30,15 @@ params:
 
 menu:
   main:
-    - identifier: Convocatoria
-      name: Convocatoria
-      url: /convocatoria
+    - identifier: Artículos
+      name: Artículos
+      url: /articulos/
       weight: 10
+    # - identifier: Convocatoria
+    #   name: Convocatoria
+    #   url: /convocatoria
+    #   weight: 10
     - identifier: Actividades
       name: Actividades Relacionadas
       url: /actividades/
       weight: 20
-
